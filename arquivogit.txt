@@ -1,3 +1,7 @@
 Olá mundo!
 Este é um arquivo teste git
 Modificado novamente
+
+Este é um repositorio teste para ensinar como o git funciona
+
+Saiba Mais em ...
